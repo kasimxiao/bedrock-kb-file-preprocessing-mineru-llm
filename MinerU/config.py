@@ -4,11 +4,11 @@
 
 # AWS 服务配置
 AWS_CONFIG = {
-    "BUCKET_NAME": "wongxiao-bedrock-kb-us-west-2",
-    "DYNAMODB_REGION": "us-west-2",
-    "BEDROCK_REGION": "us-west-2",
+    "BUCKET_NAME": "",
+    "DYNAMODB_REGION": "",
+    "BEDROCK_REGION": "",
     "BEDROCK_MODEL_ID": "us.amazon.nova-pro-v1:0",  # 可选: "us.anthropic.claude-3-5-sonnet-20241022-v2:0"
-    "CLOUDFRONT_DOMAIN": "https://d2dnhun51f1g71.cloudfront.net"
+    "CLOUDFRONT_DOMAIN": ""
 }
 
 # 图片处理配置
